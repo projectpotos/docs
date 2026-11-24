@@ -1,5 +1,5 @@
 [project]
-site_name = "PotosDocos"
+site_name = "PotosDocs"
 site_description = "Documentation for Project Potos - a framework for building custom ansible-managed linux clients"
 site_author = "Project Potos"
 site_url = "https://potos.dev/"
